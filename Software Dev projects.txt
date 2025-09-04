@@ -1,0 +1,49 @@
+List of project urls
+
+
+//GitHub
+https://github.com/dargreens/Data-Visualization-with-FastAPI/blob/main/main.py
+https://github.com/dargreens/Gemini_API
+https://github.com/dargreens/Data_Visualization_with_Google_Charts_and_MySQL
+
+
+//AutoRegression with py statsmodel
+https://colab.research.google.com/drive/16qr1tfj2pj4j0-xqaYUE8ioR8-B0mSun?usp=sharing
+
+
+//data analysis w/ Python
+https://replit.com/@dargreens/boilerplate-medical-data-visualizer#medical_data_visualizer.py
+https://replit.com/@dargreens/boilerplate-page-view-time-series-visualizer#time_series_visualizer.py
+https://replit.com/@dargreens/boilerplate-sea-level-predictor#sea_level_predictor.py
+
+
+//data visualization tools
+https://colab.research.google.com/drive/1EdqwRlh_7Xw8-iBZLSAoRirXFUyvXcix?usp=sharing
+https://colab.research.google.com/drive/1kbdgxf1uwSFiHivaEY7sgY5FZz_WEi2X?usp=sharing
+
+
+//Machine Learning using Algos like CNN, Linear Regression w/Keras, Text Classification w/RNN
+https://colab.research.google.com/drive/1Qj0VHyoCLtAz4JyzVJnEd1oeJ6ODbRpX#scrollTo=la_Oz6oLlub6
+https://colab.research.google.com/drive/1lb1fKH-rgroiV5L1D-asSRz0ldlUxO7O?usp=sharing
+https://colab.research.google.com/drive/1dfjVUIR0NXkFCajSRO2RQXnKbgSOY1Sh?usp=sharing
+
+
+
+
+//Other practice projects w/ FrontEnd frameworks
+https://codepen.io/dan-ukwu/pen/yyLZrVo
+https://codepen.io/dan-ukwu/pen/zYeoaRE
+https://codepen.io/dan-ukwu/pen/BaMzMvQ
+https://codepen.io/dan-ukwu/pen/wvVQOOy
+https://codepen.io/dan-ukwu/pen/eYxWzeR
+https://codepen.io/dan-ukwu/pen/yLdxMBR
+https://codepen.io/dan-ukwu/pen/oNRzMvN
+https://codepen.io/dan-ukwu/pen/MWxwxQX
+https://codepen.io/dan-ukwu/pen/vYPYKeZ
+https://codepen.io/dan-ukwu/pen/GRzxjMM
+https://codepen.io/dan-ukwu/pen/rNPMYwP
+
+
+
+//using MIME for email automation
+https://colab.research.google.com/drive/1Rcl-21OXIF35pWkOI5zkkY4na1l-cQVO?usp=sharing
